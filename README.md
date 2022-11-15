@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+It contains all ways to style an component and info about debugging
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
